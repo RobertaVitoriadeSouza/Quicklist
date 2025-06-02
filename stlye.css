@@ -42,4 +42,16 @@ header{
 
     }
     
+    buttton {
+        border: none ;
+        background: none;
+        font-size: 1.4rem;
+        line-height: 1.6rem;
+        font-weight: 500;
+        margin-bottom: 1.6rem;
+        color: var(--color-brand);
+        cursor: pointer;
+
+
+    }
 }
